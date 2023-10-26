@@ -1,4 +1,4 @@
-from src.passageiro import Passageiro
+from passageiro import Passageiro
 
 
 class Topic:
