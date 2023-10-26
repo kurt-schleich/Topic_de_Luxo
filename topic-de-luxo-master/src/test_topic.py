@@ -1,7 +1,7 @@
 import unittest
 
-from src.passageiro import Passageiro
-from src.topic import Topic
+from passageiro import Passageiro
+from topic import Topic
 
 
 class TestTopic(unittest.TestCase):
