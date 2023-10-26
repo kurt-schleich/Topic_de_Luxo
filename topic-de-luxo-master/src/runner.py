@@ -1,4 +1,4 @@
-from src.passageiro import Passageiro
+'''from src.passageiro import Passageiro
 from src.topic import Topic
 
 if __name__ == '__main__':
@@ -44,4 +44,7 @@ if __name__ == '__main__':
         print("Passageiro ja esta na topic")
 
 
-    print(topic.__dict__)
+    print(topic.__dict__)'''
+a = ['baixo']*5
+a.insert(2, 7)
+print(a)
